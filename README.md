@@ -50,10 +50,13 @@ by going to Simulation ⇒ Start
 Design, Simulate and analyse the below given circuit using the following values.
 Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
-
-## Simulation
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
+## Simulation
+
+<img width="1862" height="795" alt="Screenshot 2026-02-06 111850" src="https://github.com/user-attachments/assets/2abb6b3c-debe-4c4a-b73a-0d2c1e3c6b13" />
+
 ## Output
+
 <img width="1919" height="873" alt="Screenshot 2026-02-06 111935" src="https://github.com/user-attachments/assets/1cd6825c-20d0-4713-97fe-34cdffa0debb" />
 
 ## Result
